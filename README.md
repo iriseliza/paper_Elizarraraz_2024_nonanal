@@ -1,6 +1,6 @@
 # paper_Elizarraraz_2024_nonanal
 Github repository for:
 
-ATM and ATR, two central players of the DNA damage response, are involved the induction of systemic acquired resistance by extracellular DNA, but not the plant wound response
+Immunity priming and biostimulation by airborne nonanal increase yield of field-grown common bean plants
 
-By Vega-Muñoz Isaac, Herrera-Estrella Alfredo, Martínez de la Vega Octavio and Heil Martin.
+By Iris J. Elizarraraz-Martínez1, Mariana A. Rojas-Raya1, Ana Angélica Feregrino-Pérez2, Laila P. Partida-Martínez3, & Martin Heil1
